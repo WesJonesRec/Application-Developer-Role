@@ -44,3 +44,6 @@ Key Technologies:
 o	Within Java + Standalone Queries
 •	Spring Framework 5
 •	Hibernate ORM
+
+
+If Interested Contact wesley.jones@alcumusgroup.com    07756086568 / 07592116045
